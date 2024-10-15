@@ -7,7 +7,6 @@ import random
 import typing
 
 
-
 async def async_generator() -> typing.Generator[float, None, None]:
     """Loop 10 times """
 
